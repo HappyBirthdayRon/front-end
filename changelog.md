@@ -8,6 +8,14 @@
 
 ## Version 0.1
 ### New components
+--------Feb 28, 2018--------
+* Added itemnav.php - QL
+
+### Updated components
+--------Feb 28,2018-------
+* Updated mtce to work with pagination - QL
+
+### New components
 --------Feb 14, 2018--------
 * Added Helpme.php controller that post a job ad - NC
 * Added data/job.md that is the advert - NC
