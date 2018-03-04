@@ -7,6 +7,13 @@
 * Changelog Format: Read from newest to oldest
 
 ## Version 0.1
+
+### Updated components
+--------Mar 4, 2018-------
+* Updated mtce to include size, group, status - QL
+* Updated itemadd to include size, group, status - QL
+* Updated Tasks.php to include validation for status - QL
+
 ### New components
 --------Feb 28, 2018--------
 * Added itemadd.php - NC
