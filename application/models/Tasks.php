@@ -56,4 +56,21 @@ class Tasks extends CSV_Model
 		);
 		return $config;
 	}
+
+	//return a list detailing task statuses
+	public function getAllTasksByStatus($status) {
+		//make a termporary tasklist
+		$taskList = array();
+
+		//check that each task is the required status
+		//and add to list
+		foreach($this->all as $task) {
+			if ($task->status == $status) {
+				$taskList[] = $task;
+			}
+		}
+
+		//return the list
+		return $taskList;
+	}
 }

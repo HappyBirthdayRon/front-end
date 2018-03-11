@@ -8,6 +8,20 @@
 
 ## Version 0.1
 
+### New components
+--------Mar 11, 2018-------
+* Added travis.yml for build compatibility - QL
+* Added Fruit and Fruitbowl, Fruit, Task models for testing - QL
+* Added Bootstrap.php for phpunit testing compatibility - QL
+* Added FruitbowlTest, FruitTest, TaskListTest, TaskTest for testing - QL
+* Added a Task model for testing App parameters - QL
+* Added composer.json for autoloading phpunit test - QL
+* Added phpunit.xml for unit test configuration - QL
+
+### Updated components
+--------Mar 11, 2018-------
+* Updated Tasks to have a method for getting status - QL
+
 ### Updated components
 --------Mar 4, 2018-------
 * Updated mtce to include size, group, status - QL
