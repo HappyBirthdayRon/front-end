@@ -19,3 +19,7 @@ application/logs/*
 /nbproject/
 
 tmp/
+vendor/
+composer.lock
+tests/build
+tests/testResults/*
