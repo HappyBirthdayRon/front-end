@@ -10,6 +10,7 @@
 
 ### New components
 --------Mar 11, 2018-------
+* Added travis.yml for build compatibility - QL
 * Added Fruit and Fruitbowl, Fruit, Task models for testing - QL
 * Added Bootstrap.php for phpunit testing compatibility - QL
 * Added FruitbowlTest, FruitTest, TaskListTest, TaskTest for testing - QL
