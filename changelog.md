@@ -9,6 +9,10 @@
 ## Version 0.1
 
 ### New components
+--------Mar 20m 2018-------
+* Added XML data - NC
+
+### New components
 --------Mar 11, 2018-------
 * Added travis.yml for build compatibility - QL
 * Added Fruit and Fruitbowl, Fruit, Task models for testing - QL
